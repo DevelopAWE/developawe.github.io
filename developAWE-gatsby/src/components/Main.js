@@ -164,7 +164,11 @@ class Main extends React.Component {
               </a>
             </li>
             <li>
-              <a href="#" className="icon fa-github">
+              <a
+                href="https://github.com/DevelopAWE"
+                target="_blank"
+                className="icon fa-github"
+              >
                 <span className="label">GitHub</span>
               </a>
             </li>
