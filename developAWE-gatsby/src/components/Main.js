@@ -66,9 +66,9 @@ class Main extends React.Component {
                 this.props.onChangeArticle('contact')
               }}
             >
-              Contact
+              contact
             </a>{' '}
-            Thank you.
+            us. Thank you.
           </p>
           {close}
         </article>
