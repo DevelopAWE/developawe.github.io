@@ -3,8 +3,6 @@ import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
-import pic01 from '../images/pic01.jpg'
-
 class BlogIndex extends React.Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')
@@ -13,10 +11,12 @@ class BlogIndex extends React.Component {
     return (
       <div>
         <Helmet>
-            <title>{get(this, 'props.data.site.siteMetadata.title')}</title>
-            <meta name="description" content={get(this, 'props.data.site.siteMetadata.description')} />
+          <title>{get(this, 'props.data.site.siteMetadata.title')}</title>
+          <meta
+            name="description"
+            content={get(this, 'props.data.site.siteMetadata.description')}
+          />
         </Helmet>
-
       </div>
     )
   }
