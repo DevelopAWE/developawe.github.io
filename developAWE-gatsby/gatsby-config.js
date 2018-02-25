@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     title: 'DevelopAWE',
     author: 'Collin',
-    description: 'A Gatsby.js Starter based on Dimension by HTML5 UP',
+    description:
+      'DevelopAWE Web design and development, along with Apps, hosting, and domains. Based out of Wisconsin.',
   },
   pathPrefix: '/',
   plugins: [
