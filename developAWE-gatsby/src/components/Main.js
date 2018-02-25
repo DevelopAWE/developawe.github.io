@@ -56,9 +56,6 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Work</h2>
-          {/* <span className="image main">
-            <img src={pic02} alt="" />
-          </span> */}
           <p>
             Currently we have not finished any sites to display here. Please
             check back later to see what we have done. If you would like to
