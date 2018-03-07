@@ -26,12 +26,18 @@
     <!-- Intro -->
     <article id="intro">
       <h2 className="major">Intro</h2>
-        <p>We are DevelopAWE. AWE stands for App, Web, and Everything. We aim to do everything web or app related for you. We will design and develop your website, host it for you, supply domains and keep your site up to date for you. We can also develop Android and IOS apps to suit your needs if you need an app built. “We will leave you in <strong><em>AWE</em></strong>”</p>
+      <!-- eslint-disable-next-line -->
+        <p>We are DevelopAWE. AWE stands for App, Web, and Everything. We aim to do everything web or app related for you. We will design and develop your website, host it for you, supply domains and keep your site up to date for you. We can also develop Android and IOS apps to suit your needs if you need an app built. “We will leave you in
+          <strong>
+            <em>AWE</em>
+          </strong>”
+        </p>
     </article>
 
     <!-- Work -->
     <article id="work">
       <h2 class="major">Work</h2>
+      <!-- eslint-disable-next-line -->
       <p>Currently we have not finished any sites to display here. Please check back later to see what we have done. If you would like to inquire about having us build a site for you please <a href="#contact">contact</a> us. Thank you.
       </p>
     </article>
@@ -40,6 +46,7 @@
     <article id="about">
       <h2 class="major">About</h2>
       <p>
+        <!-- eslint-disable-next-line -->
         We are a small web company. We focus on web design and development,along with hosting options and domain purchasing.
       </p>
     </article>
