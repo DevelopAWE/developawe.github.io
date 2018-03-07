@@ -1,6 +1,6 @@
-# developawe
+# github_page
 
-> DevelopAWE website
+> DevelopAWE Webpage
 
 ## Build Setup
 
