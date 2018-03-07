@@ -8,12 +8,12 @@
 
 <script>
 // eslint-disable-next-line
-import Index from "@/components/Index";
+import Index from "../components/Index";
 export default {
-  name: 'Wrapper',
+  name: "Wrapper",
   components: {
-    Index,
-  },
+    Index
+  }
 };
 </script>
 
