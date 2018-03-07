@@ -59,7 +59,11 @@
         </div>
         <div class="field">
           <label for="message">Message</label>
-          <textarea placeholder="Currently Disabled" disabled name="message" id="message" rows="4"></textarea>
+          <textarea
+            placeholder="Currently Disabled"
+            disabled name="message"
+            id="message"
+            rows="4"></textarea>
         </div>
         <ul class="actions">
           <li>
